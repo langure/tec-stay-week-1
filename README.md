@@ -20,9 +20,9 @@ Virtual environments are essential for managing dependencies and isolating proje
 2. Navigate to your project's root directory.
 
 3. Create a virtual environment:
-
-python -m venv venv
-
+    ```
+    python -m venv venv
+    ```
 4. Activate the virtual environment:
 - On Windows:
   ```
