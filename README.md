@@ -6,6 +6,11 @@ Machine Learning is a subfield of artificial intelligence that empowers computer
 ## What is NLP?
 Natural Language Processing (NLP) is a branch of AI that focuses on the interaction between computers and human language. It enables computers to understand, interpret, and generate human language, making it an essential component in various AI applications.
 
+## Readings:
+
+[Introduction to Natural Language Processing:](https://surface.syr.edu/cgi/viewcontent.cgi?article=1043&context=istpub)
+
+
 ## Why Choose Python for Machine Learning?
 Python has emerged as one of the most popular programming languages for machine learning and NLP due to its simplicity, readability, and rich ecosystem of libraries. It provides powerful tools and frameworks like TensorFlow, PyTorch, and scikit-learn that facilitate seamless development and experimentation with machine learning models.
 
