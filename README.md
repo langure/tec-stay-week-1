@@ -8,11 +8,12 @@ Natural Language Processing (NLP) is a branch of AI that focuses on the interact
 
 ## Readings:
 
-[Introduction to Natural Language Processing](https://surface.syr.edu/cgi/viewcontent.cgi?article=1043&context=istpub){:target="_blank"}
-[Commercial applications of Natural Language Processing](https://dl.acm.org/doi/pdf/10.1145/219717.219778){:target="_blank"}
-[Natural language processing: an introduction](https://academic.oup.com/jamia/article/18/5/544/829676?login=false){:target="_blank"}
+[Introduction to Natural Language Processing](https://surface.syr.edu/cgi/viewcontent.cgi?article=1043&context=istpub)
 
-<a href="https://surface.syr.edu/cgi/viewcontent.cgi?article=1043&context=istpub" target="_blank">Introduction to Natural Language Processing</a>
+[Commercial applications of Natural Language Processing](https://dl.acm.org/doi/pdf/10.1145/219717.219778)
+
+[Natural language processing: an introduction](https://academic.oup.com/jamia/article/18/5/544/829676?login=false)
+
 
 ## Why Choose Python for Machine Learning?
 Python has emerged as one of the most popular programming languages for machine learning and NLP due to its simplicity, readability, and rich ecosystem of libraries. It provides powerful tools and frameworks like TensorFlow, PyTorch, and scikit-learn that facilitate seamless development and experimentation with machine learning models.
