@@ -35,7 +35,48 @@ Virtual environments are essential for managing dependencies and isolating proje
 
 5. You will see the virtual environment name appear in your command prompt or terminal, indicating that the virtual environment is active.
 
+
 6. You are now ready to install Python packages specific to this project within the virtual environment.
+
+# Installing Pip Dependencies from requirements.txt
+
+To ensure a smooth setup of the project and to have all the required Python packages installed, we will use the `requirements.txt` file. This file lists all the necessary Python packages and their versions. Here's how to install the pip dependencies from `requirements.txt`:
+
+1. **Activate the Virtual Environment:**
+   If you haven't already, activate your virtual environment. Use the following commands based on your operating system:
+
+   - On Windows:
+     ```
+     venv\Scripts\activate
+     ```
+
+   - On macOS and Linux:
+     ```
+     source venv/bin/activate
+     ```
+
+2. **Install Dependencies:**
+   With the virtual environment active, you can now install the required packages from `requirements.txt` using the `pip` package manager. Run the following command in your terminal or command prompt:
+
+    ```
+    pip install -r requirements.txt
+    ```
+
+
+This will automatically read the contents of `requirements.txt` and install all the specified packages and their versions into your virtual environment.
+
+3. **Verification:**
+After the installation is complete, you can verify that all the required dependencies are installed in your virtual environment by running the following command:
+
+    ```
+    pip list
+    ```
+
+
+This will display a list of all installed packages along with their versions.
+
+Congratulations! You have successfully installed all the necessary pip dependencies for your project using the `requirements.txt` file. You are now ready to move forward with the NLP and text emotion detection course. Happy coding!
+
 
 Once you have successfully set up the virtual environment, you can proceed with the first practical exercise using Python to solidify your understanding of basic programming concepts.
 
