@@ -8,7 +8,9 @@ Natural Language Processing (NLP) is a branch of AI that focuses on the interact
 
 ## Readings:
 
-[Introduction to Natural Language Processing:](https://surface.syr.edu/cgi/viewcontent.cgi?article=1043&context=istpub)
+[Introduction to Natural Language Processing](https://surface.syr.edu/cgi/viewcontent.cgi?article=1043&context=istpub){:target="_blank"}
+[Commercial applications of Natural Language Processing](https://dl.acm.org/doi/pdf/10.1145/219717.219778){:target="_blank"}
+[Natural language processing: an introduction](https://academic.oup.com/jamia/article/18/5/544/829676?login=false){:target="_blank"}
 
 
 ## Why Choose Python for Machine Learning?
